@@ -1,4 +1,4 @@
-# Solutions-could-be-in-the-form-of-waste-segregation-disposal-and-improve-sanitization-system.
+# smart-waste-segregation
 website
 <!DOCTYPE html>
 <html lang="en">
