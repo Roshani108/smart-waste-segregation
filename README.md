@@ -10,9 +10,9 @@ A simple, static website promoting effective waste management practices.
 ## 📂 Folder Structure
 WasteManagement/
 ├── index.html
-└── photos/
-├── bin.jpg
-├── waste.png
+└── photos
+  ├── bin.jpg
+  ├── waste.png
 
 
 ## 🌐 Live Preview
